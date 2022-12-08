@@ -1,6 +1,6 @@
 # Buku JavaScript
 
-![JavaScript Learning Path](diagram/javascript-learning-path.png)
+![JavaScript Learning Path](javascript-learning-path.png)
 
 ## Web
 - HTML
